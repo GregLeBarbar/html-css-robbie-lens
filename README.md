@@ -1,17 +1,9 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 3
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 4
 
-Vous allez maintenant pouvoir mettre en pratique ce que vous venez d'apprendre sur les liens.
+Vous allez maintenant pouvoir enrichir le portfolio de Robbie Lens. Pour cela, vous devrez :
 
-Exceptionnellement pour cet exercice, la page `a-propos.html` a été déplacée dans un dossier `dossier-demo` afin que vous puissiez tester votre compréhension des liens relatifs.
+- remplacer les liens Twitter et Instagram en bas des pages "À propos" et "Accueil" par les icônes correspondantes ;
+- insérer l'image de Robbie Lens sur la page d'accueil (le fichier s'appelle robbie-lens.png ) ;
+- afficher tout en haut et tout en bas de la page le logo qui renvoie sur la page d'accueil grâce à un lien.
 
-Pour cet exercice, votre mission, si vous l'acceptez, est de :
-
-- créer sur la page d'accueil un lien vers la page "À propos" (sans déplacer les fichiers) ;
-
-- créer sur la page `a-propos.html` un lien vers la page d'accueil (sans déplacer les fichiers) ;
-
-- ajouter les liens vers les réseaux sociaux (qui s'ouvrent dans un nouvel onglet) sur la page d'accueil et la page "À propos" :
-
-  - pour Twitter, vous redirigerez vers "https://twitter.com/",
-
-  - pour Instagram, le lien pointe vers "https://www.instagram.com/".
+Vous trouverez toutes les images nécessaires pour cet exercice directement dans la base de code, dans le dossier /images .
