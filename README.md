@@ -1,4 +1,4 @@
-# html-css-robbie-lens
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 2
 
 La photographe Robbie Lens nous a demandé de lui faire un site web pour mettre en avant son travail. Mais il va lui falloir également une page pour se présenter. Pour l'occasion, nous avons donc ajouté du contenu dans le fichier index.html et créé une nouvelle page :a-propos.html.
 
