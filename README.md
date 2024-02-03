@@ -1,6 +1,6 @@
 # Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 4
 
-##
+## Insérez des images
 
 Vous allez exploiter ce que vous venez d'apprendre, et le mettre à profit dans le projet de Robbie Lens.
 
@@ -16,4 +16,4 @@ Ici, vous allez :
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step4">étape suivante</a> nous allons "Insérez des images".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step4">étape suivante</a> nous allons "Intégrez le CSS dans la page HTML".
