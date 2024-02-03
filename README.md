@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 5
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step5
 
 ## Intégrez le CSS dans la page HTML
 
