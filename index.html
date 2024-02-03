@@ -4,6 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <!--
+      La ligne ci-dessus suggère au navigateur d'établir une connexion précoce avec le serveur de Google Fonts (fonts.googleapis.com). 
+      Le rel="preconnect" indique au navigateur de préparer la connexion réseau nécessaire pour récupérer les polices, 
+      réduisant ainsi le temps de latence avant que le téléchargement des fichiers de police ne commence réellement.
+    -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!--
+      La ligne ci-dessus de même pour le domaine fonts.gstatic.com, qui est où les fichiers de police sont réellement hébergés. 
+      L'attribut crossorigin est nécessaire parce que les ressources sont chargées à travers un domaine différent de celui d'origine, 
+      et cela permet de partager des ressources entre différents domaines de manière sécurisée.
+    -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope&family=Montserrat&display=swap"
+      rel="stylesheet" />
     <title>Accueil - Robbie Lens Photographie</title>
   </head>
   <body>
@@ -13,10 +29,9 @@
     </div>
     <h1>Photographie</h1>
     <p>
-      Où <span class="important">professionalisme</span> s'allie avec
-      <span class="important">passion</span>. Depuis plus de 5 ans maintenant,
-      j'exerce mon métier avec la passion qui m'anime : capturer l'essence de
-      chaque instant.
+      Où <em>professionalisme</em> s'allie avec <em> passion</em>. Depuis plus
+      de 5 ans maintenant, j'exerce mon métier avec la passion qui m'anime :
+      capturer l'essence de chaque instant.
     </p>
     <img
       src="images/robbie-lens.png"

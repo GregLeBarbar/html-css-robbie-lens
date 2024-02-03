@@ -45,7 +45,7 @@ Pour cela, vous allez :
     - enlever le soulignement
     - `1em`
     - police `Manrope`
-  - Remplacer les <span class="important"></span> par des éléments em tout en gardant le même style.
+  - Remplacer les <span class="important"></span> par des éléments `em` tout en gardant le même style.
 
 ## Etape suivante
 
