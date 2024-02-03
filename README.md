@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 3
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step3
 
 ## Créez un lien hypertexte en HTML
 
