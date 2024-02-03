@@ -20,4 +20,4 @@ Pour cet exercice, votre mission, si vous l'acceptez, est de :
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step3">étape suivante</a> nous allons "Insérez des images".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step4">étape suivante</a> nous allons "Insérez des images".
