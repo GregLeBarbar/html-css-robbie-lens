@@ -1,4 +1,6 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 5
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 4
+
+##
 
 Vous allez exploiter ce que vous venez d'apprendre, et le mettre à profit dans le projet de Robbie Lens.
 
@@ -11,3 +13,7 @@ Ici, vous allez :
 - mettre le logo et les liens de navigation en haut des pages "Accueil" et "À propos" dans une balise div
 - mettre les différents logos en bas des deux pages dans une autre `div`
 - sur la page d'accueil, dans le paragraphe d'introduction, vous allez appliquer le style suivant : `color: #A5B4FC;` au mot "professionnalisme" et au mot "passion". Pour l'instant, vous utiliserez un `<span>`, mais nous le modifierons dans le prochain chapitre pour utiliser `<em>`.
+
+## Etape suivante
+
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step4">étape suivante</a> nous allons "Insérez des images".
