@@ -16,4 +16,4 @@ Ici, vous allez :
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step4">étape suivante</a> nous allons "Intégrez le CSS dans la page HTML".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step5">étape suivante</a> nous allons "Intégrez le CSS dans la page HTML".
