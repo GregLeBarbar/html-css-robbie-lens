@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step 2
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step2
 
 ## Organisez votre texte
 
