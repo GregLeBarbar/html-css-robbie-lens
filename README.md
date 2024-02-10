@@ -23,28 +23,14 @@
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step17">Etape n°17</a> | Finalisez un formulaire et ajoutez un bouton d'envoi |
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step18">Etape n°18</a> | Utilisez le responsive design avec les Media Queries |
 
-## Ajoutez de la couleur et un fond
+## Créez des bordures et des ombres
 
-Maintenant que vous maîtrisez les couleurs et l'héritage en CSS, vous allez pouvoir en tirer parti pour le projet de Robbie Lens !
+C’est maintenant le moment de mettre en pratique ce que vous venez d’apprendre, dans le projet de Robbie Lens. Pour cela, vous allez :
 
-Pour cela, vous devrez :
+- ajouter des arrondis sur les liens "Un projet ? Écrivez-moi" et "Voir mon portfolio", d'une valeur de `50px` (le rendu n'est pas très beau, mais ne vous inquiétez pas, nous allons l'améliorer au fil des chapitres) ;
 
-- changer les couleurs de fond pour que :
-  - la div dans laquelle on a les liens en haut des pages, et le pied de page, aient un fond blanc
-  - le cœur de la page ait un fond correspondant à `#1F2039`
-- et les couleurs de texte pour que :
-  - les liens en tête et pied de page soient de couleur `#242424`
-  - les paragraphes, les listes et les titres `H2` soient de la couleur `#F9F8FF` (sur fond bleu foncé)
-
-Vous trouverez également des liens hypertextes qui ont été ajoutés :
-
-- "Un projet ? Écrivez-moi" dans le fichier `index.html`
-- "Voir mon portfolio" dans le fichier `a-propos-html`
-
-Vous devrez leur ajouter un dégradé qui passe de la couleur `#8E86B5` à la couleur `#ACAEED` et les mettre dans la police `Manrope`, en blanc.
-
-C'est normal si votre couleur de fond a une petite marge, nous corrigerons cela dans quelques chapitres.
+- créer une `div` , sur la page `À propos`, qui englobe le paragraphe et la liste de compétences de Robbie Lens ; lui ajouter une bordure à droite et en bas, de `1px` d'épaisseur et de la couleur `#8e86b5`.
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step8">étape suivante</a> nous allons "Créez des bordures et des ombres".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step9">étape suivante</a> nous allons "Créez des apparences dynamiques".
