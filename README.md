@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step9
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step10
 
 ## Les différentes étapes
 
@@ -23,18 +23,20 @@
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step17">Etape n°17</a> | Finalisez un formulaire et ajoutez un bouton d'envoi |
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step18">Etape n°18</a> | Utilisez le responsive design avec les Media Queries |
 
-## Créez des apparences dynamiques
+## Structurez votre page
 
-C'est le moment de mettre en pratique pour le site de Robbie Lens ce que vous venez d'apprendre, en ajoutant des apparences dynamiques !
+C'est le moment de mettre en pratique ce que vous venez d'apprendre dans le portfolio de Robbie Lens. Pour cela, vous allez :
 
-Pour cette étape, vous devrez :
+- intégrer un `<header>` dans les pages d'`accueil` et `Á propos`
 
-- souligner les liens au survol
+- intégrer un `<footer>` dans ces même pages
 
-- permettre aux liens ayant la classe `cta` d'avoir un dégradé de la couleur `#696484` à la couleur `#8788BA` au survol (attention, ceux-ci ne sont pas soulignés au survol)
+- ajouter `<main>` là où c'est nécessaire
 
-- dans les icônes de l'en-tête et du pied-de-page qui permettent de faire des liens, réduire l'opacité à `0.5` au survol
+- basculer vos liens hypertextes de navigation dans une balise `<nav>`
+
+- adapter les déclarations CSS en fonction des modifications faites
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step10">étape suivante</a> nous allons "Structurez votre page".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step11">étape suivante</a> nous allons "Découvrez le modèle des boîtes".
