@@ -7,7 +7,7 @@ Maintenant que vous maîtrisez les couleurs et l'héritage en CSS, vous allez po
 Pour cela, vous devrez :
 
 - changer les couleurs de fond pour que :
-  - la div dans laquelle on a les liens en haut des pages, et le pied de page, aient un fond blanc
+  - la `div` dans laquelle on a les liens en haut des pages, et le pied de page, aient un fond blanc
   - le cœur de la page ait un fond correspondant à `#1F2039`
 - et les couleurs de texte pour que :
   - les liens en tête et pied de page soient de couleur `#242424`
