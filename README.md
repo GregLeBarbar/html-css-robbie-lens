@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step10
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step11
 
 ## Les différentes étapes
 
@@ -23,20 +23,34 @@
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step17">Etape n°17</a> | Finalisez un formulaire et ajoutez un bouton d'envoi |
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step18">Etape n°18</a> | Utilisez le responsive design avec les Media Queries |
 
-## Structurez votre page
+## Découvrez le modèle des boîtes
 
-C'est le moment de mettre en pratique ce que vous venez d'apprendre dans le portfolio de Robbie Lens. Pour cela, vous allez :
+Vous allez maintenant pouvoir vous faire la main sur le site de Robbie Lens, et mettre en pratique ce que vous venez d'apprendre ! Dans la branche de départ de l'exercice, vous trouverez un bout de CSS qui indique :
 
-- intégrer un `<header>` dans les pages d'`accueil` et `Á propos`
+```
+{
+  margin: 0;
+}
+```
 
-- intégrer un `<footer>` dans ces même pages
+Cela sert à réinitialiser les marges par défaut des navigateurs.
 
-- ajouter `<main>` là où c'est nécessaire
+À partir de là, vous allez :
 
-- basculer vos liens hypertextes de navigation dans une balise `<nav>`
+- ajouter un `padding` au `header` et au `footer` de `20px` en haut et en bas, et de `50px` à gauche et à droite
 
-- adapter les déclarations CSS en fonction des modifications faites
+- ajouter une section autour du contenu de la page d'`accueil`
+
+- ajouter une section autour du contenu de la page `A-propos`
+
+- donner à vos sections (pour les futures sections à venir) un `padding` de `80px`
+
+- créer un `padding` de `50px` pour `carre-contenu`
+
+- centrer le contenu de la page `A-propos`
+
+- aérer le contenu de la page `A-propos` : mettre de la marge au-dessus du sous-titre `Services` et de la liste des compétences.
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step11">étape suivante</a> nous allons "Découvrez le modèle des boîtes".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step12">étape suivante</a> nous allons "Faites votre mise en page avec Flexbox".
