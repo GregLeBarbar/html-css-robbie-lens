@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step7
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step9
 
 ## Les différentes étapes
 
@@ -23,14 +23,18 @@
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step17">Etape n°17</a> | Finalisez un formulaire et ajoutez un bouton d'envoi |
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step18">Etape n°18</a> | Utilisez le responsive design avec les Media Queries |
 
-## Créez des bordures et des ombres
+## Créez des apparences dynamiques
 
-C’est maintenant le moment de mettre en pratique ce que vous venez d’apprendre, dans le projet de Robbie Lens. Pour cela, vous allez :
+C'est le moment de mettre en pratique pour le site de Robbie Lens ce que vous venez d'apprendre, en ajoutant des apparences dynamiques !
 
-- ajouter des arrondis sur les liens "Un projet ? Écrivez-moi" et "Voir mon portfolio", d'une valeur de `50px` (le rendu n'est pas très beau, mais ne vous inquiétez pas, nous allons l'améliorer au fil des chapitres) ;
+Pour cette étape, vous devrez :
 
-- créer une `div` , sur la page `À propos`, qui englobe le paragraphe et la liste de compétences de Robbie Lens ; lui ajouter une bordure à droite et en bas, de `1px` d'épaisseur et de la couleur `#8e86b5`.
+- souligner les liens au survol
+
+- permettre aux liens ayant la classe `cta` d'avoir un dégradé de la couleur `#696484` à la couleur `#8788BA` au survol (attention, ceux-ci ne sont pas soulignés au survol)
+
+- dans les icônes de l'en-tête et du pied-de-page qui permettent de faire des liens, réduire l'opacité à `0.5` au survol
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step9">étape suivante</a> nous allons "Créez des apparences dynamiques".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step10">étape suivante</a> nous allons "Structurez votre page".
