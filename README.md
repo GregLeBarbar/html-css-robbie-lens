@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step7
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step8
 
 ## Créez des bordures et des ombres
 
