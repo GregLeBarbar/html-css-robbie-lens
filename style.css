@@ -89,10 +89,10 @@ section {
 
 footer,
 nav {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
+  display: flex; /* définit l'élément HTML comme flexible */
+  flex-direction: row; /* définit l'axe principal 'horizontal' et l'axe secondaire 'vertical' */
+  justify-content: space-between; /* alignement sur l'axe principal */
+  align-items: center; /* alignement sur l'axe secondaire */
 }
 
 nav a {
@@ -100,11 +100,11 @@ nav a {
 }
 
 .accueil-introduction {
-  display: flex;
-  flex-direction: row;
-  width: 50%;
-  align-items: center;
+  display: flex; /* définit l'élément HTML comme flexible */
+  flex-direction: row; /* définit l'axe principal 'horizontal' et l'axe secondaire 'vertical' */
+  align-items: center; /* alignement sur l'axe secondaire */
   margin: auto;
+  width: 50%;
 }
 
 .accueil-photos {
@@ -119,9 +119,9 @@ nav a {
 }
 
 .accueil-photos div {
-  display: flex;
-  flex-direction: row;
-  gap: 15px;
-  justify-content: center;
+  display: flex; /* définit l'élément HTML comme flexible */
+  flex-direction: row; /* définit l'axe principal 'horizontal' et l'axe secondaire 'vertical' */
+  justify-content: center; /* alignement sur l'axe principal */
+  gap: 15px; /* permet de définir les espaces (les gouttières) entre les lignes et entre les colonnes d'une grille.  https://developer.mozilla.org/fr/docs/Web/CSS/gap */
   margin-bottom: 15px;
 }
