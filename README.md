@@ -1,5 +1,7 @@
 # Site HTML5 et CSS3 du site de la photographe Robbie Lens - step12
 
+## Faites votre mise en page avec Flexbox
+
 Maintenant que vous maîtrisez les propriétés de `Flexbox`, nous allons en profiter pour mettre en forme les pages du portfolio de Robbie Lens !
 
 À partir de maintenant, la mise en page devient plus élaborée : vous pouvez donc, si vous le voulez, vous référer à la <a href="https://www.figma.com/file/QkByQpitu0TP9exzH3RM9e/OC---Brouillon-HTML-%2F-CSS-desktop-%26-mobile?node-id=0%3A1&t=PXMT0hibJHNbaz8J-0">maquette (le modèle) du site de Robbie Lens</a>.
