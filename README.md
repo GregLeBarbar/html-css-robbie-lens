@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step16
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step17
 
 ## Les différentes étapes
 
@@ -22,26 +22,20 @@
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step16">Etape n°16</a> | "Créez des formulaires" et "Finalisez un formulaire et ajoutez un bouton d'envoi" |
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step17">Etape n°17</a> | Utilisez le responsive design avec les Media Queries                              |
 
-## "Créez des formulaires" et "Finalisez un formulaire et ajoutez un bouton d'envoi"
+## Utilisez le responsive design avec les Media Queries
 
-Vous allez pouvoir créer un formulaire de contact pour Robbie Lens !
+Dernier rendez-vous avec le site de Robbie Lens. Cette fois-ci, vous allez adapter le site pour les formats mobile !
 
-Pour cela, rendez-vous sur GitHub pour avoir la base de code pour faire l’exercice sur la <a href="https://github.com/OpenClassrooms-Student-Center/1603881-creez-votre-site-web-avec-html5-et-css3/archive/refs/heads/P4C3-exercice.zip">branche P4C3-exercice</a>.
+Vous trouverez la base de code pour faire l’exercice sur la <a href="https://github.com/OpenClassrooms-Student-Center/1603881-creez-votre-site-web-avec-html5-et-css3/archive/refs/heads/P4C4-exercice.zip">branche P4C4-exercice</a>.
 
-Vous y trouverez la structure de la nouvelle section à ajouter dans la page d'accueil. À vous de jouer pour :
+Réduisez la taille des titres à `2em`.
 
-- ajouter un champ nom avec le label associé
+Remplacez les `width` pour `.accueil-introduction` et `form` par la propriété `max-width` sur la page d'accueil, avec une valeur de `1000px`.
 
-- ajouter un champ email avec le label associé
+Cachez la section "Tarifs" sur la page "À propos".
 
-- ajouter un textarea ayant pour label message
+Tous les éléments qui sont disposés à l'horizontale basculent à la verticale à partir de la taille d'écran `996px` (introduction, grilles photos et formulaire).
 
-- créer un bouton de validation "Envoyer"
+Le `padding` sur le côté des pages passe de `80px` à `20px`.
 
-- changer le lien du bouton "Un projet? Écrivez-moi" pour le faire pointer vers le formulaire.
-
-Le formulaire aura une méthode get et restera vide pour l'attribut `action`.
-
-## Etape suivante
-
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step17">étape suivante</a> nous allons "Utilisez le responsive design avec les Media Queries".
+Les liens de navigation du `header` passent à la verticale et sont centrés.
