@@ -1,4 +1,4 @@
-# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step14
+# Site HTML5 et CSS3 du site de la photographe Robbie Lens - step15
 
 ## Les différentes étapes
 
@@ -23,25 +23,24 @@
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step17">Etape n°17</a> | Finalisez un formulaire et ajoutez un bouton d'envoi |
 | <a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step18">Etape n°18</a> | Utilisez le responsive design avec les Media Queries |
 
-## Abordez d'autres techniques de mise en page
+## Ajoutez des tableaux
 
-Vous allez maintenant pouvoir exploiter ce que vous venez d'apprendre dans le portfolio de Robbie Lens. Les images de la page "Portfolio" peuvent maintenant s'afficher en plein écran avec la méthode vue dans le chapitre “Insérez des images”. Pour cela, des liens ont été ajoutés avec la classe lien-conteneur-photo .
+Vous allez maintenant pouvoir construire le tableau des tarifs de Robbie Lens !
 
-Vous pouvez retrouver sur GitHub la base de code pour faire l'exercice sur la <a href="https://github.com/OpenClassrooms-Student-Center/1603881-creez-votre-site-web-avec-html5-et-css3/archive/refs/heads/P3C5-solution.zip">branche P3C5-exercice</a>.
+Vous verrez que la base de code a été réorganisée :
 
-Pour ce chapitre, vous allez :
+- le fichier CSS a été découpé en 4 fichiers CSS différents qui se trouvent dans le dossier `style`
 
-- transformer les liens qui ont la classe `.cta` en éléments `inline-block` avec `display` sur les pages "Accueil" et "À propos", et ajouter leur lien vers la page "Portfolio" ; (`cta` veut dire `call to action` en anglais, autrement dit, en français : "bouton d'appel à l'action")
+- le fichier de base `style.css` est importé par chaque page
 
-- ajouter des `margin` et `padding` là où il en manque sur les pages "Accueil" et "À propos" (pour rappel, voici la maquette d'inspiration pour le site)
+- chaque page possède son propre fichier CSS.
 
-- créer sur les images un effet au survol de la souris en affichant un élément (grâce à `display` ) qui :
+Vous ajouterez les tarifs à la suite de la page "À propos", après le lien `Call to action` (appel à l’action).
 
-  - aura un fond noir d'une opacité de 70% ;
-  - s'affichera par-dessus l'image, et y mentionnera le texte suivant : "Voir la photo", comme ceci :
+Voilà à quoi le tableau devrait ressembler :
 
-<img src="doc/image-opacite.png">
+<img src="doc/tableau-tarifs.png">
 
 ## Etape suivante
 
-Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step15">étape suivante</a> nous allons "Ajoutez des tableaux".
+Dans l'<a href="https://github.com/GregLeBarbar/html-css-robbie-lens/tree/step16">étape suivante</a> nous allons "Créez des formulaires".
